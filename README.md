@@ -1,5 +1,5 @@
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
-![Swift](https://img.shields.io/badge/swift-5.10-orange)
+![Swift](https://img.shields.io/badge/swift-6.1-orange)
 ![License](https://img.shields.io/github/license/janchrist91/Calculator_iOS)
 # 📱 Calculator iOS App
 
