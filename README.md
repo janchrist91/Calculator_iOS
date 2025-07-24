@@ -21,9 +21,9 @@ A simple and elegant calculator app built with **SwiftUI**, compatible with iOS 
 
 ## 📷 App Icon Previews
 
-| Light Mode | Dark Mode | Tinted |
-|------------|-----------|--------|
-| ![Light](assets/light_icon.png) | ![Dark](assets/dark_icon.png) | ![Tinted](assets/tinted_icon.png) |
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](https://github.com/janchrist91/Calculator_iOS/blob/main/Calculator/Assets.xcassets/AppIcon.appiconset/icon%28l%29.png?raw=true) | ![Light](https://github.com/janchrist91/Calculator_iOS/blob/main/Calculator/Assets.xcassets/AppIcon.appiconset/icon%28d%29.png?raw=true) |
 
 ## 🚀 Getting Started
 
