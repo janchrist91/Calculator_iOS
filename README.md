@@ -1,3 +1,6 @@
+![Platform](https://img.shields.io/badge/platform-iOS-blue)
+![Swift](https://img.shields.io/badge/swift-5.10-orange)
+![License](https://img.shields.io/github/license/janchrist91/Calculator_iOS)
 # 📱 Calculator iOS App
 
 A simple and elegant calculator app built with **SwiftUI**, compatible with iOS 18.5.
